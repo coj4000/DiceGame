@@ -9,6 +9,7 @@ namespace DiceGame
     {
         public void MyCode()
         {
+            Die tusindsidekop = new Die(666);
             //Die dicetusindudenforkop = new Die(1000);
             //dicetusindudenforkop.RollDie();
             //Console.WriteLine($"the value of the dice is {dicetusindudenforkop.GetValue()}");
