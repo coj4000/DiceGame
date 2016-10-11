@@ -10,7 +10,7 @@ namespace DiceGame
         public void MyCode()
         {
             // The FIRST line of code should be BELOW this line
-
+            Die die1 = new Die();
 
             // The LAST line of code should be ABOVE this line
         }
